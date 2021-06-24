@@ -1,0 +1,7 @@
+#*java -ea loa.Main
+seed 2198483
+a2-c2
+auto black
+auto white
+#win+
+dump
